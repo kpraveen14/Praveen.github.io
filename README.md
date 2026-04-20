@@ -83,7 +83,7 @@ I am a passionate Data Analyst with a strong interest in transforming raw data i
 ## 📫 Connect With Me  
 - 📧 Email: kpraveen4445@gmail.com  
 - 🔗 GitHub: https://github.com/kpraveen14  
-- 🔗 LinkedIn: (Add your LinkedIn link here)  
+- 🔗 LinkedIn: (https://www.linkedin.com/feed/)  
 
 ---
 
